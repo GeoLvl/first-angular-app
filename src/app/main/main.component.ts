@@ -6,7 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./main.component.css'],
 })
 export class MainComponent implements OnInit {
-  user = 'Geoffrey';
+  user = 'Nyan';
+  age = 99;
 
   constructor() {}
 
